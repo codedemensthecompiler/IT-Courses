@@ -14,7 +14,7 @@
 
 ---
 
- - ⬅️ Previous: [🌇 *Lesson 2:* ***What is C++ and its possibilities***](Lesson%202:%20What%20is%20C++%20and%20its%20possibilities.md)
+ - ⬅️ Previous: [🌇 *Lesson 2:* **What is C++ and its possibilities**](Lesson%202:%20What%20is%20C++%20and%20its%20possibilities.md)
  - ➡️ Next: 🌇 *Lesson 4:*
 
 ---

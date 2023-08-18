@@ -17,8 +17,8 @@
 
 ---
 
- - ⬅️ Previous: [🌇 *Lesson 1:* ***Introduction***](Lesson%201:%20Introduction.md)
- - ➡️ Next: [🌇 *Lesson 3:* ***Compilation Process***](Lesson%203:%20Compilation%20Process.md)
+ - ⬅️ Previous: [🌇 *Lesson 1:* **Introduction**](Lesson%201:%20Introduction.md)
+ - ➡️ Next: [🌇 *Lesson 3:* **Compilation Process**](Lesson%203:%20Compilation%20Process.md)
 
 ---
 ### 📖 Brief: 
