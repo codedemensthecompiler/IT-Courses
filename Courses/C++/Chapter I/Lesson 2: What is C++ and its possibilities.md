@@ -1,7 +1,7 @@
 
 📋 **Table Of Contents:**
 
-- [🌇 Lesson 2: What is C++ and its possibilities](#-lesson-2-what-is-c-and-its-possibilities)
+- [🌇 *Lesson 2:* ***What is C++ and its possibilities***](#-lesson-2-what-is-c-and-its-possibilities)
     - [📖 Brief:](#-brief)
 - [📖 **Covered Topics:**](#-covered-topics)
   - [What is C++ exactly?](#what-is-c-exactly)
@@ -9,7 +9,7 @@
       - [Objective-Oriented Programming](#objective-oriented-programming)
       - [Generic-Oriented Programming](#generic-oriented-programming)
 
-# 🌇 Lesson 2: What is C++ and its possibilities
+# 🌇 *Lesson 2:* ***What is C++ and its possibilities***
 
 *Author of tutorial: Dawid Jakubowski (Codedemens The Compiler)*
 
@@ -17,6 +17,10 @@
 
 ---
 
+ - ⬅️ Previous: [🌇 *Lesson 1:* ***Introduction***](Lesson%201:%20Introduction.md)
+ - ➡️ Next: [🌇 *Lesson 3:* ***Compilation Process***](Lesson%203:%20Compilation%20Process.md)
+
+---
 ### 📖 Brief: 
 
  > 💡 *In this lesson we'll be diving into the depths of C++. What are the possibilities of this language, and briefly how it looks like. We'll also go through the history of programming language and its developments to this day.*

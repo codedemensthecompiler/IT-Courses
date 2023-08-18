@@ -12,6 +12,13 @@
 
 *This tutorial is written in markdown, uses emoji, and is under MIT License.*
 
+---
+
+ - ⬅️ Previous: [🌇 *Lesson 2:* ***What is C++ and its possibilities***](Lesson%202:%20What%20is%20C++%20and%20its%20possibilities.md)
+ - ➡️ Next: 🌇 *Lesson 4:*
+
+---
+
 ### 📖 Brief: 
 
 C++ is a **compiled** programming language, which means that to run an application one has to build it first, using a compiler. In this lesson, we're going to go through what is compilation process, and its stages & implications. We're also going to set up the GNU GCC compiler set. 

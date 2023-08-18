@@ -1,7 +1,7 @@
 
 📋 **Table Of Contents:**
 
-- [🌇 Lesson 0: Introduction](#-lesson-0-introduction)
+- [🌇 *Lesson 1:* ***Introduction***](#-lesson-1-introduction)
     - [📖 Brief:](#-brief)
 - [📖 **Covered Topics:**](#-covered-topics)
   - [Introduction to this course \& C++ Programming Language](#introduction-to-this-course--c-programming-language)
@@ -13,11 +13,16 @@
       - [Debugger](#debugger)
       - [Compilation Setup](#compilation-setup)
 
-# 🌇 Lesson 0: Introduction
+# 🌇 *Lesson 1:* ***Introduction***
 
 *Author of tutorial: Dawid Jakubowski (Codedemens The Compiler)*
 
 *This tutorial is written in markdown, uses emoji, and is under MIT License.*
+
+---
+
+ - ➡️ Previous: [🌇 *C++ Course:* ***Table Of Contents***](../../../C++%20Course.md)
+ - ➡️ Next: [🌇 *Lesson 2:* ***What is C++ and its possibilities***](Lesson%202:%20What%20is%20C++%20and%20its%20possibilities.md)
 
 ---
 
@@ -120,3 +125,8 @@ Debugger allows you to inspect your code during execution time. It can switch fr
 Tools such as CMake allow you to create special scripts which can automate the compilation process. They can run the compiler (*such as GCC*) to build your software from the configuration presets. It is very helpful as it allows you to setup the compilation process, and never worry about lengthy command lines.
 
  > 💡 *In this course we'll discuss CMake briefly, but I have also created a CMake course specifically.*
+
+
+---
+
+ 📖 Next Lesson: [🌇 *Lesson 2:* ***What is C++ and its possibilities***](Lesson%202:%20What%20is%20C++%20and%20its%20possibilities.md)
