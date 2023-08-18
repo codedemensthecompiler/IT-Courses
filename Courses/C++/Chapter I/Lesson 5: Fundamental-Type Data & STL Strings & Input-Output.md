@@ -13,7 +13,7 @@
 
 ---
 
- - ⬅️ Previous: [🌇 *Lesson 4:* **Compilation Process**](./Lesson%201:%20Introduction.md)
+ - ⬅️ Previous: [🌇 *Lesson 4:* **Compilation Process**](./Lesson%204:%20Hello%20World;%20Main%20Function;%20Syntax%20Essentials.md)
  - ➡️ Next: 🌇 *Lesson 6:*
 
 ---
