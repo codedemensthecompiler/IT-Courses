@@ -14,3 +14,5 @@
    * 📜 You'll find a brief of C++ and its programming paradigms, core features, examples of usage, projects, and scope of use, etc.
  * [📄 *Lesson 3:* ***Compilation Process***](Courses/C++/Chapter%20I/Lesson%203:%20Compilation%20Process.md)
    * 📜 Essentials of Compilation Process, how to run compilation process and build your first program. Compilation; Linking Errors, the difference between interpreted and compiled languages, and what does compilation process imply for developers & users (clients).
+ * [📄 *Lesson 4:* ***Hello World; Main Function; Syntax Essentials***](Courses/C++/Chapter%20I/Lesson%204:%20Hello%20World;%20Main%20Function;%20Syntax%20Essentials.md)
+   * 📜 We'll create our first application - `Hello World`, and some syntax basics, such as std::cout, comments, #include, main function, or fundamental types.
