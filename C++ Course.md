@@ -17,3 +17,6 @@
  * [📄 *Lesson 4:* ***Hello World; Main Function; Syntax Essentials***](Courses/C++/Chapter%20I/Lesson%204:%20Hello%20World;%20Main%20Function;%20Syntax%20Essentials.md)
    * 📜 We'll create our first application - `Hello World`, and some syntax basics, such as std::cout, comments, #include, main function, or fundamental types.
  * [📄 *Lesson 5:* ***Fundamental-Type Data & STL Strings & Input/Output***](Courses/C++/Chapter%20I/Lesson%205:%20Fundamental-Type%20Data%20&%20STL%20Strings%20&%20Input-Output.md)
+   * 📜 In this lesson we'll go through fundamental types of C++, STL Strings, and Input/Ouput of `<iostream>`
+
+
