@@ -15,7 +15,7 @@
 ---
 
  - ⬅️ Previous: [🌇 *Lesson 2:* **What is C++ and its possibilities**](./Lesson%202:%20What%20is%20C++%20and%20its%20possibilities.md)
- - ➡️ Next: 🌇 *Lesson 4:*
+ - ➡️ Next: [🌇 *Lesson 4:* Hello World, Main Function, Syntax Essentials**](./Lesson%204:%20Hello%20World;%20Main%20Function;%20Syntax%20Essentials.md)
 
 ---
 
