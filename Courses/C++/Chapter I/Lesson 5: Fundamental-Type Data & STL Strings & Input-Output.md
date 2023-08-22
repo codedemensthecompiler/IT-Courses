@@ -14,7 +14,7 @@
 ---
 
  - ⬅️ Previous: [🌇 *Lesson 4:* **Compilation Process**](./Lesson%204:%20Hello%20World;%20Main%20Function;%20Syntax%20Essentials.md)
- - ➡️ Next: 🌇 *Lesson 6:*
+ - ➡️ Next: [🌇 *Lesson 6:* **Selection & Iteration Statements (if, else-if, else, switch) & (for, while, do-while), Logical & Comparison Operators, C-Style Arrays**](./Lesson%206:%20Selection%20&%20Iteration%20Statements:%20(if,%20else-if,%20else%20statements,%20switch)%20&%20(for,%20while,%20do-while%20statements),%20Logical%20&%20Comparison%20Operators,%20C-Style%20arrays.md)
 
 ---
 

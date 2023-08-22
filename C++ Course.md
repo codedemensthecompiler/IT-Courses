@@ -18,5 +18,5 @@
    * 📜 We'll create our first application - `Hello World`, and some syntax basics, such as std::cout, comments, #include, main function, or fundamental types.
  * [📄 *Lesson 5:* ***Fundamental-Type Data & STL Strings & Input/Output***](Courses/C++/Chapter%20I/Lesson%205:%20Fundamental-Type%20Data%20&%20STL%20Strings%20&%20Input-Output.md)
    * 📜 In this lesson we'll go through fundamental types of C++, STL Strings, and Input/Ouput of `<iostream>`
-
-
+ * [📄 *Lesson 6:* ***Selection & Iteration Statements (if, else-if, else, switch) & (for, while, do-while), Logical & Comparison Operators, C-Style Arrays***](Courses/C++/Chapter%20I/Lesson%206:%20Selection%20&%20Iteration%20Statements:%20(if,%20else-if,%20else%20statements,%20switch)%20&%20(for,%20while,%20do-while%20statements),%20Logical%20&%20Comparison%20Operators,%20C-Style%20arrays.md)
+ * [📄 *Lesson 7:* ***Functions and References***](Courses/C++/Chapter%20I/Lesson%207:%20Functions%20and%20References.md)
